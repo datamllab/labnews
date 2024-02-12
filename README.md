@@ -19,7 +19,7 @@
 > We'd try our best to engage in such posts. Of course, you are always welcome to email us or open up an issue anytime.
 
 
-[[r/MachineLearning](), [r/LocalLLaMA](), [Twitter/X](), [LinkedIn]()] KV Cache is huge and bottlenecks LLM inference. We quantize them to 2bit in a finetuning-free + plug-and-play fashion. `authors`
+[[r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1ap3b65/), [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1ap3bkt/), [Twitter/X](), [LinkedIn](https://www.linkedin.com/posts/shaochen-henry-zhong-96a941249_kv-cache-is-huge-and-bottlenecks-llm-inference-activity-7162844534454824960-8IJ3)] KV Cache is huge and bottlenecks LLM inference. We quantize them to 2bit in a finetuning-free + plug-and-play fashion. `authors`
 
 [[r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/18x8g6c/llm_maybe_longlm_selfextend_llm_context_window/), [Twitter/X #1](https://x.com/cwolferesearch/status/1748393116338409890?s=20) [#2](https://x.com/arankomatsuzaki/status/1742367971857883383?s=20) [#3](https://x.com/rohanpaul_ai/status/1751884202877042956?s=20) [#4](https://x.com/_akhaliq/status/1742371015362052461?s=20), [kexue.fm](https://kexue.fm/archives/9948)] LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning. `third-party`
 
